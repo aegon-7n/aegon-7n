@@ -3,7 +3,7 @@
 
 Link to my [russian CV](https://drive.google.com/file/d/18nhcakWRE1XfmzMzMq5H16HyiyPV5dc2/view?usp=sharing)
 
-<p align='center'>
+<p align='left'>
    </a>
    <a href="https://t.me/aegon7n">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
@@ -30,12 +30,12 @@ Link to my [russian CV](https://drive.google.com/file/d/18nhcakWRE1XfmzMzMq5H16H
 *  OMON operational alarm clock [BackEnd] - bot for the timely arrival of special detachments to the place and more (repo is closed)
 
 ### 🏆Competitions
-*   [IT Purple Hack](https://github.com/gruzdev-as/IT-Purple-Hack) [2024] [classic-ML] (4/50) - 4rd place in the competition from MIPT and **Sber** in the case "Forecasting the outflow of FL payroll clients", where we have tried a variety of hypotheses and ways to deal with the peculiarities of the data
-*   [Tender Hack](https://github.com/epivoca/tender-hack) [2024] [NLP] (finalist) - the case is "Creating a functional for generating names and characteristics STE in a universal form", where we preprocessed data by nltk, implemented vector database FAISS with embeddings of sentense transformer LaBSE (to work with russian tokens), WildBerries parser, word validation based on n-gramms, t9, pyspellchecker
-*  Gagarin Hack [2024] [NLP] (finalist) - the case is "Sentiment telegram channels on the stock market"
-*  EESTech Hack [2024] [Time-Series] (finalist) - Forecasting Time Series
-*  Alfa X FinU Hack [2024] [classic-ML] (10/80) - Purely competitive ML
+*   [IT Purple Hack](https://github.com/gruzdev-as/IT-Purple-Hack) (4/50) [2024] [classic-ML] - 4th place in the competition from MIPT and **Sber** in the case "Forecasting the outflow of FL payroll clients", where we have tried a variety of hypotheses and ways to deal with the peculiarities of the data
+*   [Tender Hack](https://github.com/epivoca/tender-hack) (finalist) [2024] [NLP] - the case is "Creating a functional for generating names and characteristics STE in a universal form", where we preprocessed data by nltk, implemented vector database FAISS with embeddings of sentense transformer LaBSE (to work with russian tokens), WildBerries parser, word validation based on n-gramms, t9, pyspellchecker
+*  Gagarin Hack (finalist) [2024] [NLP] - the case is "Sentiment telegram channels on the stock market"
+*  EESTech Hack (finalist) [2024] [Time-Series] - Forecasting Time Series
+*  Alfa X FinU Hack (10/80) [2024] [classic-ML] - Purely competitive ML
 
 ### 🌍Languages
-*   English: Intermediate (B2)
+*   English: Upper Intermediate (B2)
 *   Russian: Native    
