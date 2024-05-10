@@ -24,7 +24,7 @@ Link to my [russian CV](https://drive.google.com/file/d/1GHXOe11vvPnLbvDwU4D2DZu
 - [MLOps и production подход в ML 2.0 by ODS](https://ods.ai/tracks/ml-in-production-spring-23) [2024]
 
 ### 👞Projects
-*  [Top topic explorer](https://github.com/aegon-7n/topic-sentiment-explorer) [2024] [NLP|ML]
+*  [Definer-top-k-topics](https://github.com/aegon-7n/topic-sentiment-explorer) [2024] [NLP|ML]
 *  Telegram-kurator-bot [BackEnd] - bot for attendance and student interaction (repo is closed) 
 *  OMON operational alarm clock [BackEnd] - bot for the timely arrival of special detachments to the place and more (repo is closed)
 
