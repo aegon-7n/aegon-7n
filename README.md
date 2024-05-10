@@ -14,7 +14,7 @@ Link to my [russian CV](https://drive.google.com/file/d/1GHXOe11vvPnLbvDwU4D2DZu
 I used to develop telegram bots: the last project was for the university in terms of attendance and student interaction. I've been studying machine learning and neural networks for the last few months. I'm currently doing NLP. I participate in hackathons and go to conferences with like-minded people. I periodically go through mock interviews to track the dynamics of my professional growth.
 
 ### 🐘Education
-NUST MISIS | Moscow | BS | Computer Science | 2023-2027
+[NUST MISIS](https://misis.ru/) | Moscow | BS | Computer Science | 2023-2027
 
 ### 🛠 Hard Skills
 *   Python, PyTorch, Sklearn, NLTK, Transformers, Hugging Face, Pandas, NumPy, Matplotlib, Seaborn, Gensim, CatBoost, FAISS, LightAutoML, Git, Bash, Linux, Apache Airflow, Docker, MLFlow, SQL, PostgreSQL, SQL, Shell, aiogram, Yandex Cloud
