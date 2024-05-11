@@ -24,9 +24,10 @@ I used to develop telegram bots: the last project was for the university in term
 - [MLOps и production подход в ML 2.0 by ODS](https://ods.ai/tracks/ml-in-production-spring-23) [2024]
 
 ### 👞Projects
-*  [Definer-top-k-topics](https://github.com/aegon-7n/topic-sentiment-explorer) [2024] [NLP|ML]
-*  Telegram-kurator-bot [BackEnd] - bot for attendance and student interaction (repo is closed) 
-*  OMON-operational-alarm-clock [BackEnd] - bot for the timely arrival of special detachments to the place and more (repo is closed)
+*  [Definer-top-k-topics](https://github.com/aegon-7n/definer-top-k-topics) [2024] [NLP|ML|MLOps]
+*  [Definer-wildberries-products-disadvantages](https://github.com/aegon-7n/definer-wildberries-products-disadvantages) [2024] [NLP|ML|MLOps]
+*  Telegram-kurator-bot [BackEnd] (repo is closed) - bot for attendance and student interaction
+*  OMON-operational-alarm-clock [BackEnd] (repo is closed) - bot for the timely arrival of special detachments to the place and more
 
 ### 🏆Competitions
 *   [IT Purple Hack](https://github.com/gruzdev-as/IT-Purple-Hack) (4/50) [2024] [classic-ML] - 4th place in the competition from MIPT and **Sber** in the case "Forecasting the outflow of FL payroll clients", where we have tried a variety of hypotheses and ways to deal with the peculiarities of the data
