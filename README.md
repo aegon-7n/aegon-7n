@@ -19,10 +19,6 @@ I used to develop telegram bots: the last project was for the university in term
 ### 🛠 Hard Skills
 *   Python, PyTorch, Sklearn, NLTK, Transformers, Hugging Face, Pandas, NumPy, Matplotlib, Seaborn, Gensim, CatBoost, FAISS, LightAutoML, Git, Bash, Linux, Apache Airflow, Docker, MLFlow, SQL, PostgreSQL, SQL, Shell, aiogram, Yandex Cloud
 
-### 👨‍🎓Additional Education
-- [Deep Learning School by MIPT](https://dls.samcs.ru/) [2023-2024]
-- [MLOps и production подход в ML 2.0 by ODS](https://ods.ai/tracks/ml-in-production-spring-23) [2024]
-
 ### 👞Projects
 *  [Definer-top-k-topics](https://github.com/aegon-7n/definer-top-k-topics) [2024] [NLP|ML|MLOps]
 *  [Definer-wildberries-products-disadvantages](https://github.com/aegon-7n/definer-wildberries-products-disadvantages) [2024] [NLP|ML|MLOps]
@@ -35,6 +31,10 @@ I used to develop telegram bots: the last project was for the university in term
 *  Gagarin Hack (finalist) [2024] [NLP] - the case is "Sentiment telegram channels on the stock market"
 *  EESTech Hack (finalist) [2024] [Time-Series] - base forecasting Time Series
 *  Alfa X FinU Hack (10/80) [2024] [classic-ML] - Purely competitive ML
+
+### 👨‍🎓Additional Education
+- [Deep Learning School by MIPT](https://dls.samcs.ru/) [2023-2024]
+- [MLOps и production подход в ML 2.0 by ODS](https://ods.ai/tracks/ml-in-production-spring-23) [2024]
 
 ### 🌍Languages
 *   English: Upper Intermediate (B2)
