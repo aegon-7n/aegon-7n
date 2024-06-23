@@ -16,7 +16,7 @@ I used to develop telegram bots: the last project was for the university in term
 [NUST MISIS](https://misis.ru/) | Moscow | BS | Computer Science | 2023-2027
 
 ### 🛠 Hard Skills
-Python, C++, Java, PyTorch, Sklearn, NLTK, Transformers, LangChain, Hugging Face, Pandas, NumPy, Matplotlib, Gen- sim, CatBoost, FAISS, Git, Bash, Linux, Apache Airflow, Docker, MLFlow, PostgreSQL, aiogram, Yandex Cloud
+Python, C++, Java, PyTorch, Sklearn, NLTK, Transformers, LangChain, Hugging Face, Pandas, NumPy, Matplotlib, Gensim, CatBoost, FAISS, Git, Bash, Linux, Apache Airflow, Docker, MLFlow, PostgreSQL, aiogram, Yandex Cloud
 
 ### 💼 Experience
 **T-Bank (ex Tinkoff)**, NLP Engineer, Intern | May 2024 - Present
