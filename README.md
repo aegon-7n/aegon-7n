@@ -1,7 +1,7 @@
 # Hi, I'm Gleb 👋
 **Data Scientist (ML | NLP | MLOps)** 
 
-[my CV](https://drive.google.com/file/d/1ax7IxxxsvKXZaAVZjV-zS7kvWLEmaI0v/view?usp=share_link)
+[my CV](https://drive.google.com/file/d/13zpU4-fXl_sDWvc4DRmV6vY0DljdNBAN/view?usp=share_link)
 
 <p align='left'>
    </a>
