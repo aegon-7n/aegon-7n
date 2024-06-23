@@ -19,7 +19,7 @@ I used to develop telegram bots: the last project was for the university in term
 Python, C++, Java, PyTorch, Sklearn, NLTK, Transformers, LangChain, Hugging Face, Pandas, NumPy, Matplotlib, Gen- sim, CatBoost, FAISS, Git, Bash, Linux, Apache Airflow, Docker, MLFlow, PostgreSQL, aiogram, Yandex Cloud
 
 ### 💼 Experience
-**T-Bank (ex Tinkoff)**, NLP Engineer, Intern
+**T-Bank (ex Tinkoff)**, NLP Engineer, Intern | May 2024 - Present
 * Develop ChatBot (RAG system) for tech department from planning and implementation to deployment in production
 
 
