@@ -13,7 +13,7 @@
 I used to develop telegram bots: the last project was for the university in terms of attendance and student interaction. I study ml and dl, currently NLP, or rather LLM. I participate in hackathons, go to conferences and mock interviews.
 
 ### 🐘Education
-[NUST MISIS](https://misis.ru/) | Moscow | BS | Computer Science | 2023-2027
+[NUST MISIS](https://misis.ru/) | Moscow | BS | Computer Science | 2022-2026
 
 ### 🛠 Hard Skills
 Python, C++, Java, PyTorch, Sklearn, NLTK, Transformers, LangChain, Hugging Face, Pandas, NumPy, Matplotlib, Gensim, CatBoost, FAISS, Git, Bash, Linux, Apache Airflow, Docker, MLFlow, PostgreSQL, aiogram, Yandex Cloud
