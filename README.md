@@ -1,7 +1,7 @@
 # Hi, I'm Gleb 👋
 **Data Scientist (ML | NLP | MLOps)** 
 
-[my CV](https://drive.google.com/file/d/13zpU4-fXl_sDWvc4DRmV6vY0DljdNBAN/view?usp=share_link)
+[my CV](https://drive.google.com/file/d/1eqNGYUCTUpoq7rqNAN9x79zA30NLlrQN/view?usp=sharing)
 
 <p align='left'>
    </a>
@@ -21,7 +21,6 @@ Python, C++, Java, PyTorch, Sklearn, NLTK, Transformers, LangChain, Hugging Face
 ### 💼 Experience
 **T-Bank (ex Tinkoff)**, NLP Engineer, Intern | May 2024 - Present
 * Develop ChatBot (RAG system) for tech department from planning and implementation to deployment in production
-
 
 ### 👞Projects
 *  [Definer-top-k-topics](https://github.com/aegon-7n/definer-top-k-topics) [2024] [NLP|ML|MLOps]
