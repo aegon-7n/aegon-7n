@@ -19,7 +19,7 @@ I used to develop telegram bots: the last project was for the university in term
 Python, PyTorch, Aiogram, Sklearn, NLTK, Transformers, LlamaIndex, LangChain, Hugging Face, Pandas, NumPy, Matplotlib, Gensim, CatBoost, FAISS, Git, Linux, Apache Airflow, Docker, MLFlow, PostgreSQL, Yandex Cloud
 
 ### 💼 Experience
-**T-Bank (ex Tinkoff)**, NLP Engineer, Intern | May 2023 - Present
+**T-Bank (ex Tinkoff)**, NLP Engineer | May 2024 - Present
 * I specialize in developing AI assistants powered by LLM specifically tailored for specific domain. My work covers the entire process — from analyzing domain-specific requirements and designing customized solutions to implementing and training/fine-tuning models. I create intuitive interfaces, adapt models to handle specialized functions, and ensure seamless integration with existing systems. By explaining complex technical aspects in simple terms, I help clients easily understand and implement effective solutions.
 
 ### 👞Projects
