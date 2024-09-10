@@ -1,7 +1,7 @@
 # Hi, I'm Gleb 👋
-**Data Scientist (ML | NLP | MLOps)** 
+**Data Scientist (ML | NLP/LLM | MLOps)** 
 
-[my CV](https://drive.google.com/file/d/1eqNGYUCTUpoq7rqNAN9x79zA30NLlrQN/view?usp=sharing)
+[my CV](https://drive.google.com/file/d/1d91EgwlIJ7g_VmnftFfreDcxaLhIW8W6/view?usp=sharing)
 
 <p align='left'>
    </a>
@@ -16,15 +16,14 @@ I used to develop telegram bots: the last project was for the university in term
 [NUST MISIS](https://misis.ru/) | Moscow | BS | Computer Science | 2022-2026
 
 ### 🛠 Hard Skills
-Python, C++, Java, PyTorch, Sklearn, NLTK, Transformers, LangChain, Hugging Face, Pandas, NumPy, Matplotlib, Gensim, CatBoost, FAISS, Git, Bash, Linux, Apache Airflow, Docker, MLFlow, PostgreSQL, aiogram, Yandex Cloud
+Python, PyTorch, Aiogram, Sklearn, NLTK, Transformers, LlamaIndex, LangChain, Hugging Face, Pandas, NumPy, Matplotlib, Gensim, CatBoost, FAISS, Git, Linux, Apache Airflow, Docker, MLFlow, PostgreSQL, Yandex Cloud
 
 ### 💼 Experience
-**T-Bank (ex Tinkoff)**, NLP Engineer, Intern | May 2024 - Present
-* Develop ChatBot (RAG system) for tech department from planning and implementation to deployment in production
+**T-Bank (ex Tinkoff)**, NLP Engineer, Intern | May 2023 - Present
+* I specialize in developing AI assistants powered by LLM specifically tailored for specific domain. My work covers the entire process — from analyzing domain-specific requirements and designing customized solutions to implementing and training/fine-tuning models. I create intuitive interfaces, adapt models to handle specialized functions, and ensure seamless integration with existing systems. By explaining complex technical aspects in simple terms, I help clients easily understand and implement effective solutions.
 
 ### 👞Projects
 *  [Definer-top-k-topics](https://github.com/aegon-7n/definer-top-k-topics) [2024] [NLP|ML|MLOps]
-*  [Definer-wildberries-products-disadvantages](https://github.com/aegon-7n/definer-wildberries-products-disadvantages) [2024] [NLP|ML|MLOps]
 *  Telegram-kurator-bot [BackEnd] (repo is closed) - bot for attendance and student interaction
 *  OMON-operational-alarm-clock [BackEnd] (repo is closed) - bot for the timely arrival of special detachments to the place and more
 
